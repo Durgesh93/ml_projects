@@ -1,0 +1,1 @@
+docker run --rm --gpus=all --shm-size 15G --user root:root -it  -v /home/durgesh/cloud/orca_dect:/workspace -w /workspace/code durgesh1993/orca /bin/bash -c "python $1"
