@@ -15,6 +15,7 @@ The `main` branch is intentionally empty.
 | `Market_basket_analysis` | Market basket analysis with the Apriori algorithm                       |
 | `POS_Tagging`            | Part-of-speech tagging with a GRU                                       |
 | `Collocation`            | Finding collocations in Moby Dick                                       |
+| `fish`                   | Fish classification: ensemble and pond evaluation (formerly `fish` repo) |
 
 ```bash
 git clone -b DETR https://github.com/Durgesh93/ml_projects
